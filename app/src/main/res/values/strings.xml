@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="TextAbove">Conjuction (AND)</string>
+    <string name="Text_A">A</string>
+    <string name="Text_B">B</string>
+    <string name="Text_A_B">A ^ B</string>
+    <string name="Text_T">T</string>
+    <string name="Text_F">F</string>
+    <string name="TV_Answer">Answer</string>
+    <string name="TV_Button">Submit</string>
+    <string name="Check_answer">You have %d of the 4 good</string>
+</resources>
